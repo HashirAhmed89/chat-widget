@@ -1,11 +1,7 @@
-import React from 'react'
-
+import ChatWidget from "./Widget/Chatwidget"
 const App = () => {
   return (
-    <>
-    
-      
-    </>
+    <ChatWidget />
   )
 }
 
